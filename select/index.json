@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "RIDER OF THE SKY",
+  "base_artist": "ACE",
+  "createdAt": "2025-12-07T02:42:59.449508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "rider of the sky",
+      "artist": "ace",
+      "has_synced": true,
+      "path": "select/01_rider_of_the_sky_ace.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rider Of The Sky",
+      "artist": "Ace",
+      "has_synced": true,
+      "path": "select/02_Rider_Of_The_Sky_Ace.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rider Of The Sky",
+      "artist": "Ace",
+      "has_synced": false,
+      "path": "select/03_Rider_Of_The_Sky_Ace.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rider of the Sky (Extended Version)",
+      "artist": "Ace",
+      "has_synced": false,
+      "path": "select/04_Rider_of_the_Sky_(Extended_Version)_Ace.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rider of the Sky",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/05_Rider_of_the_Sky_Various_Artists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rider Of The Sky - Extended Ver.",
+      "artist": "Ace",
+      "has_synced": false,
+      "path": "select/pl_01_Rider_Of_The_Sky_-_Extended_Ver._Ace.txt"
+    }
+  ]
+}
