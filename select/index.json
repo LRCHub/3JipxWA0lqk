@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "RIDER OF THE SKY",
   "base_artist": "ACE",
-  "createdAt": "2025-12-07T02:42:59.449508Z",
+  "createdAt": "2026-03-15T12:15:21.744436Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -15,34 +15,66 @@
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Rider Of The Sky",
+      "title": "Rider of The Sky",
       "artist": "Ace",
-      "has_synced": true,
-      "path": "select/02_Rider_Of_The_Sky_Ace.lrc"
+      "has_synced": false,
+      "path": "select/02_Rider_of_The_Sky_Ace.txt"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
       "title": "Rider Of The Sky",
       "artist": "Ace",
-      "has_synced": false,
-      "path": "select/03_Rider_Of_The_Sky_Ace.txt"
+      "has_synced": true,
+      "path": "select/03_Rider_Of_The_Sky_Ace.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Rider of the Sky (Extended Version)",
+      "title": "Rider of the Sky - Extended Version",
       "artist": "Ace",
       "has_synced": false,
-      "path": "select/04_Rider_of_the_Sky_(Extended_Version)_Ace.txt"
+      "path": "select/04_Rider_of_the_Sky_-_Extended_Version_Ace.txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
+      "title": "Rider of the Sky (Extended Version)",
+      "artist": "Ace",
+      "has_synced": false,
+      "path": "select/05_Rider_of_the_Sky_(Extended_Version)_Ace.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
       "title": "Rider of the Sky",
       "artist": "Various Artists",
       "has_synced": false,
-      "path": "select/05_Rider_of_the_Sky_Various_Artists.txt"
+      "path": "select/06_Rider_of_the_Sky_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rider of the Astral Fire",
+      "artist": "Luca Turilli",
+      "has_synced": true,
+      "path": "select/07_Rider_of_the_Astral_Fire_Luca_Turilli.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rider of the Last Day",
+      "artist": "Tarot",
+      "has_synced": true,
+      "path": "select/08_Rider_of_the_Last_Day_Tarot.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rider of the Astral Fire",
+      "artist": "Luca Turilli (Band)",
+      "has_synced": false,
+      "path": "select/09_Rider_of_the_Astral_Fire_Luca_Turilli_(Band).txt"
     },
     {
       "id": "petitlyrics_1",
