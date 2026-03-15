@@ -3,74 +3,46 @@
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
 ```
-Rider of the sky
-Rider of the sky
-Rider of the sky
-Rider of the sky
-I was born to be a legend
-Dreamin' of the seventh heaven
-Pretty baby I was born to fly
-Howlin' wind that blows into
-my hair
-I just wanna reach my freedom
-Up into the air
-Rider of the sky
-Can you feel my heart is beatin'
-hard now baby
-Rider of the sky
-Flashin' like an arrow through,
-star bright
-Rider of the sky
-Heaven is alive between my
-fingers, baby
-Rider of the sky
-Dartin' like a dream comes true,
-star bright
-In my mind I feel the rhythm
-You can't stop this man from
-dreamin'
-You can't stop my flight
-Into the night
-Howlin' wind that blows into
-my hair
-I just wanna reach my freedom
-Up into the air
-Rider of the sky
-Can you feel my heart is beatin'
-hard now baby
-Rider of the sky
-Flashin' like an arrow through,
-star bright
-Rider of the sky
-Heaven is alive between my
-fingers, baby
-Rider of the sky
-Dartin' like a dream comes true,
-star bright
-Howlin' wind that blows into
-my hair
-I just wanna reach my freedom
-Up into the air
-Can you feel my heart is beatin'
-hard now baby
-Flashin' like an arrow through,
-star bright
-Rider of the sky
-Heaven is alive between my
-fingers, baby
-Rider of the sky
-Dartin' like a dream comes true,
-star bright
-Rider of the sky
-Can you feel my heart is beatin'
-hard now baby
-Rider of the sky
-Flashin' like an arrow through,
-star bright
-Rider of the sky
-Heaven is alive between my
-fingers, baby
-Rider of the sky
-Dartin' like a dream comes true,
-star bright
+There between the eight suns
+Right before the system Hazor
+Shines the silent planet
+Alkor zephyr is its name
+Surface made of magma
+Of wide oceans and volcanoes
+Middle dusty regions where
+No trace of life is found
+From the space an ancient secret
+Soon will mark this old world
+In the southern region
+Live the people of Iraklia
+Descendants of peaceful
+Ancient dynasty of Lor
+Between these a warrior
+Destined to become the victim
+Victim of a prophecy
+Now lost between the stars
+He will be the astral rider
+Prophecy's new fighter
+From the dust
+Of a time now forgotten
+It will come the destroyer of worlds
+As the legend of the ancients
+Revealed with its words
+It will come from the bloody dimension
+Where death is a present from God
+He'll face the sacrificed one
+The rider who owns...
+Who owns the astral fire!
+Arkan is the name of thunder
+Prophecy's new fighter
+From the dust
+Of a time now forgotten
+It will come the destroyer of worlds
+As the legend of the ancients
+Revealed with its words
+It will come from the bloody dimension
+Where death is a present from God
+He'll face the sacrificed one
+The rider who owns...
+Who owns the astral fire!
 ```
